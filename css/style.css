@@ -17,6 +17,10 @@ main {
     margin-right: 150px;
 }
 
-small {
-    color: rgba(0, 0, 0, 0.5)
+.ba05 {
+    color: #00000077;
+}
+
+.aa05 {
+    color: #4ea1ff77;
 }
