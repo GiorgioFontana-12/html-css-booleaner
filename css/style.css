@@ -24,3 +24,15 @@ main {
 .aa05 {
     color: #4ea1ff94;
 }
+
+#azzurro {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.azzurrochiaro {
+    background-color: #b1e5f2;
+}
+table {
+    align-items: center;
+}
