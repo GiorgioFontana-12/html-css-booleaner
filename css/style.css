@@ -1,10 +1,22 @@
 header {
    background-color: #4EA0FF ;
-   background-image: url(../html-css-booleaner/img/pattern.png);
-   
+   background-image: url(../img/pattern.png);
+   background-size: 40%;
+   height: 130px;
 }
 
 #theBool {
+    margin-top: 50px;
+    margin-left: 150px;
     width: 300px;
 }
 
+main {
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+small {
+    color: rgba(0, 0, 0, 0.5)
+}
