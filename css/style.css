@@ -28,7 +28,7 @@ header {
 #azzurro {
     background-color: #20a9e5;
     color: white;
-}
+}                     
 
 .azzurrochiaro {
     background-color: #b1e5f2;
@@ -56,3 +56,5 @@ header {
 footer {
     margin-top: 35px;
 }
+/* per togliere i bordi potevi usare border-collapse:collapse; */
+/* per dare la grandezza alle colonne utilizzare il width applicato al th  */
